@@ -1,3 +1,5 @@
+Puedes enviar tus traducciones en este enlace: https://tools.reinventia.net/drawful2/
+
 INSTRUCCIONES PARA TRADUCIR LOS TEXTOS DE DRAWFUL 2
 
 1. Descarga los ficheros .json del repositorio 
