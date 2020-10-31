@@ -1,0 +1,654 @@
+{
+  "content": [
+    {
+      "id": 0,
+      "text": "alto octanaje",
+      "x": false
+    },
+    {
+      "id": 1,
+      "text": "pimentón",
+      "x": false
+    },
+    {
+      "id": 2,
+      "text": "socialismo",
+      "x": false
+    },
+    {
+      "id": 3,
+      "text": "Felicidad",
+      "x": false
+    },
+    {
+      "id": 4,
+      "text": "Lo que sea",
+      "x": false
+    },
+    {
+      "id": 5,
+      "text": "???????",
+      "x": false
+    },
+    {
+      "id": 6,
+      "text": "La reforma de la financiación de los partidos políticos",
+      "x": false
+    },
+    {
+      "id": 7,
+      "text": "Una mierda pa ti",
+      "x": false
+    },
+    {
+      "id": 8,
+      "text": "Hipócrita ",
+      "x": false
+    },
+    {
+      "id": 9,
+      "text": "Va a ser que no",
+      "x": false
+    },
+    {
+      "id": 10,
+      "text": "Racismo",
+      "x": true
+    },
+    {
+      "id": 11,
+      "text": "Ni puñetera idea de dónde vino eso",
+      "x": false
+    },
+    {
+      "id": 12,
+      "text": "Metáfora mixta",
+      "x": false
+    },
+    {
+      "id": 13,
+      "text": "No es lo que parece",
+      "x": false
+    },
+    {
+      "id": 14,
+      "text": "Perturbador",
+      "x": true
+    },
+    {
+      "id": 15,
+      "text": "F-f-f-f-fantasma!!!",
+      "x": false
+    },
+    {
+      "id": 16,
+      "text": "Tan abstracto",
+      "x": false
+    },
+    {
+      "id": 17,
+      "text": "Tienda de gilipollas",
+      "x": true
+    },
+    {
+      "id": 18,
+      "text": "Debe ser martes",
+      "x": false
+    },
+    {
+      "id": 19,
+      "text": "Benzoato de potasio",
+      "x": false
+    },
+    {
+      "id": 20,
+      "text": "Patos??",
+      "x": false
+    },
+    {
+      "id": 21,
+      "text": "Propiedad intelectual",
+      "x": false
+    },
+    {
+      "id": 22,
+      "text": "Alegoría",
+      "x": false
+    },
+    {
+      "id": 23,
+      "text": "si, claro...",
+      "x": false
+    },
+    {
+      "id": 24,
+      "text": "Autorreflejo",
+      "x": false
+    },
+    {
+      "id": 25,
+      "text": "Gerrymandering",
+      "x": false
+    },
+    {
+      "id": 26,
+      "text": "Popurrí",
+      "x": false
+    },
+    {
+      "id": 27,
+      "text": "simplemente algo Mágico",
+      "x": false
+    },
+    {
+      "id": 28,
+      "text": "Antebellum Meridiem",
+      "x": false
+    },
+    {
+      "id": 29,
+      "text": "Nosotros",
+      "x": false
+    },
+    {
+      "id": 30,
+      "text": "Vive. Ríe. Ama.",
+      "x": false
+    },
+    {
+      "id": 31,
+      "text": "Felipe VI",
+      "x": false
+    },
+    {
+      "id": 32,
+      "text": "Entropía ",
+      "x": false
+    },
+    {
+      "id": 33,
+      "text": "Abejas o algo parecido",
+      "x": false
+    },
+    {
+      "id": 34,
+      "text": "Colesterol del bueno",
+      "x": false
+    },
+    {
+      "id": 35,
+      "text": "Deja vu",
+      "x": false
+    },
+    {
+      "id": 36,
+      "text": "Purgatorio",
+      "x": true
+    },
+    {
+      "id": 37,
+      "text": "Seguro...",
+      "x": false
+    },
+    {
+      "id": 38,
+      "text": "Crisis existencial",
+      "x": false
+    },
+    {
+      "id": 39,
+      "text": "Conflicto interior masculino",
+      "x": false
+    },
+    {
+      "id": 40,
+      "text": "Historia",
+      "x": false
+    },
+    {
+      "id": 41,
+      "text": "Opción incorrecta! Opción incorrecta!",
+      "x": false
+    },
+    {
+      "id": 42,
+      "text": "Porno, creo...",
+      "x": true
+    },
+    {
+      "id": 43,
+      "text": "Ah... la humanidad!",
+      "x": false
+    },
+    {
+      "id": 44,
+      "text": "Ola k ase",
+      "x": true
+    },
+    {
+      "id": 45,
+      "text": "hidrógeno",
+      "x": false
+    },
+    {
+      "id": 46,
+      "text": "nuestro futuro",
+      "x": false
+    },
+    {
+      "id": 47,
+      "text": "un error",
+      "x": false
+    },
+    {
+      "id": 48,
+      "text": "Arrepentimiento",
+      "x": false
+    },
+    {
+      "id": 49,
+      "text": "Ding ding dong ding dong dong",
+      "x": false
+    },
+    {
+      "id": 50,
+      "text": "Ironía",
+      "x": false
+    },
+    {
+      "id": 51,
+      "text": "nop",
+      "x": false
+    },
+    {
+      "id": 52,
+      "text": "actualización de Adobe Acrobat",
+      "x": false
+    },
+    {
+      "id": 53,
+      "text": "Alehop",
+      "x": false
+    },
+    {
+      "id": 54,
+      "text": "A <RANDOM_PLAYER_NAME> se le va la olla",
+      "x": true
+    },
+    {
+      "id": 55,
+      "text": "Jambre",
+      "x": false
+    },
+    {
+      "id": 56,
+      "text": "esto",
+      "x": false
+    },
+    {
+      "id": 57,
+      "text": "me voy a dar un homenaje",
+      "x": false
+    },
+    {
+      "id": 58,
+      "text": "estás loco tío?",
+      "x": false
+    },
+    {
+      "id": 59,
+      "text": "Bosón de Higgs",
+      "x": false
+    },
+    {
+      "id": 60,
+      "text": "Bufar",
+      "x": false
+    },
+    {
+      "id": 61,
+      "text": "Puntillismo",
+      "x": false
+    },
+    {
+      "id": 62,
+      "text": "Me gusto caliente",
+      "x": false
+    },
+    {
+      "id": 63,
+      "text": "Touchè",
+      "x": false
+    },
+    {
+      "id": 64,
+      "text": "La película de nuestras vidas",
+      "x": false
+    },
+    {
+      "id": 65,
+      "text": "La sociedad, amigos",
+      "x": false
+    },
+    {
+      "id": 66,
+      "text": "iu, qué asco",
+      "x": true
+    },
+    {
+      "id": 67,
+      "text": "oooh... vale?",
+      "x": false
+    },
+    {
+      "id": 68,
+      "text": "Ahhhh cómo?",
+      "x": false
+    },
+    {
+      "id": 69,
+      "text": "retozar",
+      "x": false
+    },
+    {
+      "id": 70,
+      "text": "xoxo",
+      "x": false
+    },
+    {
+      "id": 71,
+      "text": "Ragnarok",
+      "x": false
+    },
+    {
+      "id": 72,
+      "text": "Karma",
+      "x": false
+    },
+    {
+      "id": 73,
+      "text": "bla bla bla",
+      "x": false
+    },
+    {
+      "id": 74,
+      "text": "Pero queeeee?!!",
+      "x": false
+    },
+    {
+      "id": 75,
+      "text": "Green Day",
+      "x": true
+    },
+    {
+      "id": 76,
+      "text": "En una galaxia muy lejana...",
+      "x": false
+    },
+    {
+      "id": 77,
+      "text": "dignidad",
+      "x": false
+    },
+    {
+      "id": 78,
+      "text": "come reza ama",
+      "x": true
+    },
+    {
+      "id": 79,
+      "text": "No tengo ni idea",
+      "x": false
+    },
+    {
+      "id": 80,
+      "text": "difamación",
+      "x": false
+    },
+    {
+      "id": 81,
+      "text": "bienvenidos a villapeste",
+      "x": true
+    },
+    {
+      "id": 82,
+      "text": "sinergia",
+      "x": false
+    },
+    {
+      "id": 83,
+      "text": "subliminal",
+      "x": false
+    },
+    {
+      "id": 84,
+      "text": "la estructura atómica del zinc",
+      "x": false
+    },
+    {
+      "id": 85,
+      "text": "dilema moral",
+      "x": false
+    },
+    {
+      "id": 86,
+      "text": "Botillo",
+      "x": false
+    },
+    {
+      "id": 87,
+      "text": "el acto del amor",
+      "x": true
+    },
+    {
+      "id": 88,
+      "text": "no elijas esta",
+      "x": false
+    },
+    {
+      "id": 89,
+      "text": "Sopa de letras para el alma",
+      "x": false
+    },
+    {
+      "id": 90,
+      "text": "casi seguro que éste es un señuelo",
+      "x": false
+    },
+    {
+      "id": 91,
+      "text": "Abracadabra",
+      "x": false
+    },
+    {
+      "id": 92,
+      "text": "Padres forzosos",
+      "x": false
+    },
+    {
+      "id": 93,
+      "text": "matemáticas",
+      "x": false
+    },
+    {
+      "id": 94,
+      "text": "capricho",
+      "x": false
+    },
+    {
+      "id": 95,
+      "text": "Acto fallido",
+      "x": false
+    },
+    {
+      "id": 96,
+      "text": "A quien le importa lo que yo haga",
+      "x": false
+    },
+    {
+      "id": 97,
+      "text": "Bendito desorden",
+      "x": false
+    },
+    {
+      "id": 98,
+      "text": "fallo épico",
+      "x": false
+    },
+    {
+      "id": 99,
+      "text": "El fin de la inocencia",
+      "x": true
+    },
+    {
+      "id": 100,
+      "text": "El caos",
+      "x": false
+    },
+    {
+      "id": 101,
+      "text": "Aurora boreal",
+      "x": false
+    },
+    {
+      "id": 102,
+      "text": "Te voy a contar cuatro cositas",
+      "x": false
+    },
+    {
+      "id": 103,
+      "text": "Esquema Ponzi",
+      "x": false
+    },
+    {
+      "id": 104,
+      "text": "Secreto de Tudela",
+      "x": false
+    },
+    {
+      "id": 105,
+      "text": "Lo que sea, me encanta",
+      "x": false
+    },
+    {
+      "id": 106,
+      "text": "Mira mamá! sin manos!",
+      "x": false
+    },
+    {
+      "id": 107,
+      "text": "Sirope de maíz con alto contenido en fructosa",
+      "x": false
+    },
+    {
+      "id": 108,
+      "text": "Ni de coña!",
+      "x": false
+    },
+    {
+      "id": 109,
+      "text": "El modo en que comenzó Queen",
+      "x": false
+    },
+    {
+      "id": 110,
+      "text": "Borroso",
+      "x": false
+    },
+    {
+      "id": 111,
+      "text": "#picoftheday",
+      "x": false
+    },
+    {
+      "id": 112,
+      "text": "Filisteo",
+      "x": false
+    },
+    {
+      "id": 113,
+      "text": "pozo negro",
+      "x": false
+    },
+    {
+      "id": 114,
+      "text": "Oh, sí, creo que me va a encantar justo ahí",
+      "x": false
+    },
+    {
+      "id": 115,
+      "text": "Ni lo sé, ni me importa",
+      "x": false
+    },
+    {
+      "id": 116,
+      "text": "como si",
+      "x": false
+    },
+    {
+      "id": 117,
+      "text": "superhipermegamolón",
+      "x": false
+    },
+    {
+      "id": 118,
+      "text": "Si voy a morir, moriré a lo grande en la carretera",
+      "x": true
+    },
+    {
+      "id": 119,
+      "text": "un grave error",
+      "x": false
+    },
+    {
+      "id": 120,
+      "text": "Crema de cacao",
+      "x": false
+    },
+    {
+      "id": 121,
+      "text": "fuego! fuego! fueeeeeeeegoo!!!",
+      "x": false
+    },
+    {
+      "id": 122,
+      "text": "cosas del culo",
+      "x": true
+    },
+    {
+      "id": 123,
+      "text": "Algo de mi colección de juguetes sexuales",
+      "x": true
+    },
+    {
+      "id": 124,
+      "text": "El espacio, colegas",
+      "x": false
+    },
+    {
+      "id": 125,
+      "text": "sea lo que sea, cambió mi vida",
+      "x": false
+    },
+    {
+      "id": 126,
+      "text": "a mamá le gusta",
+      "x": true
+    },
+    {
+      "id": 127,
+      "text": "ni idea",
+      "x": false
+    },
+    {
+      "id": 128,
+      "text": "que demonios??",
+      "x": true
+    },
+    {
+      "id": 129,
+      "text": "yo, todo el tiempo",
+      "x": false
+    }
+  ]
+}
